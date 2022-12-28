@@ -2,7 +2,8 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any frontend project
-- 📫 Reach me on twitter https://twitter.com/lamba004 
+- 📫 Reach me on twitter https://twitter.com/lambacodes 
+
 
 <!---
 lamba01/lamba01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
