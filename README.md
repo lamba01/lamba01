@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lamba01
+- 👋 Hi, I’m John, a frontend developer
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any frontend project
