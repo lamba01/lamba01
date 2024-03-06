@@ -1,5 +1,5 @@
-- 👋 Hi, I’m John, a frontend developer
-- 👀 I’m interested in front end development
+- 👋 Hi, I’m John, a website developer
+- 👀 I’m interested in website development
 - 🌱 I’m currently working with React and Node.js
 - 💞️ I’m looking to collaborate on any frontend project
   
