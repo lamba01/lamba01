@@ -2,6 +2,7 @@
 - 👀 I’m interested in website development
 - 🌱 I’m currently working with React, Nextjs and Node.js
 - 💞️ I’m looking to collaborate on any web development project
+- Portfolio → johncodes.xyz
   
 
 
